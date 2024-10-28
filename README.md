@@ -1,1 +1,2 @@
 # Tableau_Project
+This project focuses on analyzing HR data, particularly examining employee attrition and job satisfaction across various attributes such as department, age group, gender, education field, and job role. By utilizing a Tableau dashboard, we aim to gain insights into factors influencing attrition and satisfaction, helping organizations make data-driven decisions to improve employee retention and overall job satisfaction.
